@@ -1,0 +1,5 @@
+.roundbutton {
+  -fx-background-radius: 100%;
+  -fx-background-position: center;
+  -fx-border-width: 50;
+}
